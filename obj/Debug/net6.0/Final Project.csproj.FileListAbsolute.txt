@@ -1,0 +1,26 @@
+C:\Users\artni\source\repos\Final Project\Final Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\artni\source\repos\Final Project\Final Project\bin\Debug\net6.0\appsettings.json
+C:\Users\artni\source\repos\Final Project\Final Project\bin\Debug\net6.0\Final Project.staticwebassets.runtime.json
+C:\Users\artni\source\repos\Final Project\Final Project\bin\Debug\net6.0\Final Project.exe
+C:\Users\artni\source\repos\Final Project\Final Project\bin\Debug\net6.0\Final Project.deps.json
+C:\Users\artni\source\repos\Final Project\Final Project\bin\Debug\net6.0\Final Project.runtimeconfig.json
+C:\Users\artni\source\repos\Final Project\Final Project\bin\Debug\net6.0\Final Project.dll
+C:\Users\artni\source\repos\Final Project\Final Project\bin\Debug\net6.0\Final Project.pdb
+C:\Users\artni\source\repos\Final Project\Final Project\obj\Debug\net6.0\Final Project.csproj.AssemblyReference.cache
+C:\Users\artni\source\repos\Final Project\Final Project\obj\Debug\net6.0\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artni\source\repos\Final Project\Final Project\obj\Debug\net6.0\Final Project.AssemblyInfoInputs.cache
+C:\Users\artni\source\repos\Final Project\Final Project\obj\Debug\net6.0\Final Project.AssemblyInfo.cs
+C:\Users\artni\source\repos\Final Project\Final Project\obj\Debug\net6.0\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\artni\source\repos\Final Project\Final Project\obj\Debug\net6.0\Final Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\artni\source\repos\Final Project\Final Project\obj\Debug\net6.0\Final Project.RazorAssemblyInfo.cache
+C:\Users\artni\source\repos\Final Project\Final Project\obj\Debug\net6.0\Final Project.RazorAssemblyInfo.cs
+C:\Users\artni\source\repos\Final Project\Final Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\artni\source\repos\Final Project\Final Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\artni\source\repos\Final Project\Final Project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\artni\source\repos\Final Project\Final Project\obj\Debug\net6.0\scopedcss\bundle\Final Project.styles.css
+C:\Users\artni\source\repos\Final Project\Final Project\obj\Debug\net6.0\scopedcss\projectbundle\Final Project.bundle.scp.css
+C:\Users\artni\source\repos\Final Project\Final Project\obj\Debug\net6.0\Final Project.dll
+C:\Users\artni\source\repos\Final Project\Final Project\obj\Debug\net6.0\refint\Final Project.dll
+C:\Users\artni\source\repos\Final Project\Final Project\obj\Debug\net6.0\Final Project.pdb
+C:\Users\artni\source\repos\Final Project\Final Project\obj\Debug\net6.0\Final Project.genruntimeconfig.cache
+C:\Users\artni\source\repos\Final Project\Final Project\obj\Debug\net6.0\ref\Final Project.dll
